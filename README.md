@@ -1,2 +1,2 @@
 # TFM-Master-Big-Data
-Repositorio del Trabajo Fin de Máster.
+Repositorio con el conjunto preprocesado de tutoriales recogidos de la plataforma WikiHow, usados en el Trabajo Fin de Máster.
